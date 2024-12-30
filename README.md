@@ -8,3 +8,4 @@ Escape the Room 01 - A quick example of an escape room that could be adapted to 
 
 States - The turret has been refined to segment the states into macros within the event graph. This gives a high level overview of the states within an event graph. Also an example of a turret that locks onto the player
 
+SpaceSHooter Files can be ignored as they have been mograted to a new project (UE_Arcade_Space_Shooter)
